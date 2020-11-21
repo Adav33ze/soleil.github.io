@@ -5,9 +5,9 @@ body{   background-color: #242424;
 background-image:url(images/background-adare-restaurant.jpg);
 background-size: auto;
 background-repeat: no-repeat;
-background-position:center}
+/* background-position:center;} */
 
-
+}
 
 .container {
     margin-left: auto;
