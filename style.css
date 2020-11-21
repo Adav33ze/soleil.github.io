@@ -6,7 +6,8 @@ body{
 background-image:url(images/background-adare-restaurant.jpg);
 background-size:cover;
 background-repeat: no-repeat;
-background-position:center}
+background-position:center;
+text-align: center;}
 
 
 
@@ -74,5 +75,5 @@ color: rgb(204, 217, 228);
 }
 .maps{  
     padding-bottom: 100px;
-    
+    text-align: center;
 }
