@@ -4,7 +4,7 @@ html{height:100%}
 body{  
 background-color: gray;
 background-image:url(images/background-adare-restaurant.jpg);
-background-size:auto;
+background: size 100%;
 background-repeat: no-repeat;
 background-position:center;
 text-align: center;}
